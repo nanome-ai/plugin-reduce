@@ -1,6 +1,6 @@
 # Nanome - Reduce Plugin
 
-Hydrogenation plugin using Reduce
+Hydrogenation plugin using Reduce (from https://github.com/rlabduke/reduce)
 
 ## Dependencies
 
