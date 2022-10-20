@@ -6,10 +6,6 @@ Hydrogenation plugin using Reduce (from https://github.com/rlabduke/reduce)
 
 [Docker](https://docs.docker.com/get-docker/)
 
-**TODO**: Provide instructions on how to install and link any external dependencies for this plugin.
-
-**TODO**: Update docker/Dockerfile to install any necessary dependencies.
-
 ## Usage
 
 To run Reduce Plugin in a Docker container:
